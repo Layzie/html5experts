@@ -16,17 +16,15 @@ You can find original article at <a href="#{ original.article_url }">#{ title }<
 原文は<a href="#{ original.article_url }">#{ title }</a>に掲載されています。
 
 * * *
-
 There have been some posts recently that lament the way that companies hire front-end developers, and in particular "Computer Science questions". I feel like throwing my hat in the ring on this one, because I have some thoughts.
-
--   Last updated: 22 Jan 2014
--   Est. Read Time: 3 mins
--   Share this: [Twitter](http://www.twitter.com/share?url=http://aerotwist.com/blog/algowhatnow/) [Google+](https://plus.google.com/share?url=http://aerotwist.com/blog/algowhatnow/)
--   Tagged: \#opinion
 
 My 2 ½ year old son knows what an algorithm is, even though he’s never heard the word. He knows how I make a coffee, and guides me through the process. He even helps me out a little by tipping coffee all over the place. He knows all the steps and ensures I Do Things Properly™. (I’m certain Mummy puts him up to it.)
 
+私の2歳半の息子は、言葉自体は聞いたことがなくてもアルゴリズムが何なのかを知っています。息子は私がどのようにコーヒーを入れるかを知っていて、作る過程を先導してくれます。至るところにあるティッピングしたコーヒー豆を取りのぞくのを少しでも手伝eてくれさえします。彼は全ての過程を知っていて私がきちんと物事をするということを保障しています。(ママがそうさせるに決まってます)
+
 It kind of goes like this:
+
+こんな感じで進めます。
 
 1.  Get some coffee beans.
 2.  Chuck them in a bean grinder.
@@ -38,7 +36,19 @@ It kind of goes like this:
 8.  Pour coffee into the mug; apply milk.
 9.  Watch Daddy drink it and return to his Happy Place.
 
+1.  コーヒー豆を持ってきます。
+2.  コーヒー豆をグラインダーに放りこみます。
+3.  豆を挽きます。
+4.  コーヒーメーカーに挽いた粉を放りこみます。
+5.  水を沸かしてちょっとだけ冷まします。パパは焦げたコーヒーに耐えられ*ないよ*
+6.  コーヒーにお湯を注ぎます。
+7.  待ちます。
+8.  ミルクを加えて、マグカップにコーヒーを注ぎます。
+9.  パパがコーヒーを飲んでるのを見て、いつもの場所に帰ります。
+
 An algorithm is just a list of ordered steps, and nothing to be particularly concerned about. I regard the ability to break down a task into steps as a basic building block for a programmer of any level.
+
+アルゴリズムとは単に決められた手順のリストであって、特に心配するようなことは何もないのです。どんなレベルのプログラマーでも基礎の組み立てブロックのようにタスクを分解するという能力は持っていると考えています。
 
 OK, but why would you ask me to write Quicksort?
 ================================================
