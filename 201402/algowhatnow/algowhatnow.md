@@ -18,6 +18,8 @@ You can find original article at <a href="#{ original.article_url }">#{ title }<
 * * *
 There have been some posts recently that lament the way that companies hire front-end developers, and in particular "Computer Science questions". I feel like throwing my hat in the ring on this one, because I have some thoughts.
 
+最近企業がフロントエンドディベロッパーの雇用について嘆いている投稿がいくつかありました。特に"コンピュータサイエンスについての質問"についてです。私はある考え方を持っているので、この問題に明快に答えられるように思ってます。
+
 My 2 ½ year old son knows what an algorithm is, even though he’s never heard the word. He knows how I make a coffee, and guides me through the process. He even helps me out a little by tipping coffee all over the place. He knows all the steps and ensures I Do Things Properly™. (I’m certain Mummy puts him up to it.)
 
 私の2歳半の息子は、言葉自体は聞いたことがなくてもアルゴリズムが何なのかを知っています。息子は私がどのようにコーヒーを入れるかを知っていて、作る過程を先導してくれます。至るところにあるティッピングしたコーヒー豆を取りのぞくのを少しでも手伝eてくれさえします。彼は全ての過程を知っていて私がきちんと物事をするということを保障しています。(ママがそうさせるに決まってます)
